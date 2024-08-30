@@ -1,0 +1,4 @@
+C:\Windows\System32>cd D:\work-space\OpenCart
+mvn test
+
+
